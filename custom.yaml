@@ -1,0 +1,7 @@
+# Пример конфигурации
+app:
+  name: MyApp
+  version: 1.0
+  settings:
+    debug: true
+    port: 8080
